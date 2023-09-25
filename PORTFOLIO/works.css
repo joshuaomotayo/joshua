@@ -1,0 +1,140 @@
+.headline-1 {
+    
+    width: 100%;
+    height: 700px;
+    margin-top: 40px;
+}
+
+.logo-1 {
+    
+    text-align: center;
+    justify-items: center;
+}
+.work-1 {
+    font-size: 2rem;
+    text-align: center;
+    
+}
+.color{
+  
+    text-align: center;
+}
+.border-00{
+    height: 12px;
+    width: 9.4%;
+    margin-left: 550px;
+    justify-content: center;
+    align-items: center;
+    background-color: yellow;
+}
+
+.list-1 {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;   
+    align-items: center;
+}
+.list-1 li{
+    margin-right: 30px;
+}
+.table-1{
+   display: flex; 
+   justify-content: center;
+   grid-gap: 7px;
+   margin-top: 25px;
+}
+
+.abc-1{
+
+    width: 200px;
+    height: 170px;
+    background-image: url(/istockphoto-1180155715-612x612.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.abc-2{
+    
+    width: 200px;
+    height: 170px;
+    background-image: url(/86d1a1d738e42cc0335af71fe2d431ad.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+.abc-3{
+    
+    width: 200px;
+    height: 170px;
+    background-image: url(/969e29466c4040aa181f7d80e6cac331.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+.table-2{
+    display: flex; 
+    justify-content: center;
+    grid-gap: 7px;
+    margin-top: 7px;
+ }
+ .abc-4{
+    
+    width: 200px;
+    height: 170px;
+    background-image: url(/bc8787543bda61ed3659925bbc7c9e62.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+ }
+ .abc-5{
+    
+    width: 200px;
+    height: 170px;
+    background-image: url(/facebook.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+  
+ }
+ .abc-6{
+    
+    width: 200px;
+    height: 170px;
+    background-image: url(/86d1a1d738e42cc0335af71fe2d431ad.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+ }
+ .table-3{
+    display: flex; 
+    justify-content: center;
+    grid-gap: 7px;
+    margin-top: 7px;
+ }
+ .abc-7{
+   
+    width: 200px;
+    height: 170px;
+    background-image: url(/instagram.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+  
+ }
+ .abc-8{
+    
+    width: 200px;
+    height: 170px;
+    background-image: url(/linkedin.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+
+ }
+ .abc-9{
+  
+    width: 200px;
+    height: 170px;
+    background-image: url(/0095502f31120d909ccce07f3f1842fd.jpg);
+    background-size: contain;
+
+ }
+
+ 
